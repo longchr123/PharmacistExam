@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="23.4.0"><source path="E:\workspace\YaoShi\javaapkcomSignCalendar\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\assets"/></dataSet><dataSet config="main"><source path="E:\workspace\YaoShi\javaapkcomSignCalendar\src\main\assets"/></dataSet><dataSet config="debug"><source path="E:\workspace\YaoShi\javaapkcomSignCalendar\src\debug\assets"/></dataSet></merger>
